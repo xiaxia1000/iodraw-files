@@ -172,7 +172,10 @@
           <mxGeometry x="471" y="942" width="120" height="24" as="geometry" />
         </mxCell>
         <mxCell id="N2mrWS5QDrmyQRekD96m-96" value="num1 = num1 + 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="486" y="864" width="102" height="42" as="geometry" />
+          <mxGeometry x="480" y="966" width="102" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="N2mrWS5QDrmyQRekD96m-97" value="setblock..." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="471" y="1008" width="120" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
