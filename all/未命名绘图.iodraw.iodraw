@@ -32,7 +32,7 @@
           <mxGeometry x="248" y="-694" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N2mrWS5QDrmyQRekD96m-37" value="3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="328" y="-690" width="80" height="80" as="geometry" />
+          <mxGeometry x="328" y="-694" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N2mrWS5QDrmyQRekD96m-38" value="4" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="408" y="-694" width="80" height="80" as="geometry" />
@@ -47,9 +47,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="204" y="-606" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="N2mrWS5QDrmyQRekD96m-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="N2mrWS5QDrmyQRekD96m-40" target="N2mrWS5QDrmyQRekD96m-35">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N2mrWS5QDrmyQRekD96m-40" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="-462" width="84" height="54" as="geometry" />
