@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N2mrWS5QDrmyQRekD96m-58" value="and or not if ...." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="147" y="-174" width="120" height="60" as="geometry" />
+          <mxGeometry x="21" y="-252" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
