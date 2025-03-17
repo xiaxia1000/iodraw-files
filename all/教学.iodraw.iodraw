@@ -138,8 +138,8 @@
         <mxCell id="N2mrWS5QDrmyQRekD96m-81" value="4,4" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="340" y="626" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N2mrWS5QDrmyQRekD96m-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="66" y="696" width="120" height="60" as="geometry" />
+        <mxCell id="N2mrWS5QDrmyQRekD96m-82" value="num1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="66" y="696" width="84" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
