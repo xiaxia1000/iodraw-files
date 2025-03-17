@@ -150,8 +150,8 @@
         <mxCell id="N2mrWS5QDrmyQRekD96m-86" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-68" y="648" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N2mrWS5QDrmyQRekD96m-87" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="234" y="738" width="102" height="42" as="geometry" />
+        <mxCell id="N2mrWS5QDrmyQRekD96m-87" value="num = 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="478" y="750" width="102" height="42" as="geometry" />
         </mxCell>
         <mxCell id="N2mrWS5QDrmyQRekD96m-88" value="num2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72" y="798" width="90" height="42" as="geometry" />
