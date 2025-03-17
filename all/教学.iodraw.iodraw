@@ -133,16 +133,16 @@
           <mxGeometry x="179" y="464" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N2mrWS5QDrmyQRekD96m-80" value="3,3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="259" y="546" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="464" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N2mrWS5QDrmyQRekD96m-81" value="4,4" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="340" y="626" width="80" height="80" as="geometry" />
+          <mxGeometry x="340" y="546" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N2mrWS5QDrmyQRekD96m-82" value="num1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72" y="744" width="84" height="48" as="geometry" />
         </mxCell>
         <mxCell id="N2mrWS5QDrmyQRekD96m-83" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="342" y="528" width="80" height="80" as="geometry" />
+          <mxGeometry x="420" y="626" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
