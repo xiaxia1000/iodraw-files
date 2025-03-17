@@ -10,15 +10,6 @@
         <mxCell id="N2mrWS5QDrmyQRekD96m-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="530" y="130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N2mrWS5QDrmyQRekD96m-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="450" as="sourcePoint" />
-            <mxPoint x="440" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="N2mrWS5QDrmyQRekD96m-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N2mrWS5QDrmyQRekD96m-1" target="N2mrWS5QDrmyQRekD96m-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
