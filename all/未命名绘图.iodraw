@@ -33,7 +33,11 @@
             <mxPoint x="50" y="320" as="sourcePoint" />
             <mxPoint x="290" y="440" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="140" y="410" />
+              <mxPoint x="160" y="430" />
               <mxPoint x="230" y="400" />
+              <mxPoint x="250" y="440" />
+              <mxPoint x="190" y="450" />
               <mxPoint x="110" y="440" />
               <mxPoint x="200" y="510" />
               <mxPoint x="260" y="530" />
