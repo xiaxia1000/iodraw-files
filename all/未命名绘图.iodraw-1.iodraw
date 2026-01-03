@@ -6,14 +6,14 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="Y1VW-6891RowxFgl-XT5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="320" as="targetPoint" />
-            <mxPoint x="490" y="110" as="sourcePoint" />
+            <mxPoint x="420" y="360" as="targetPoint" />
+            <mxPoint x="440" y="150" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="490" y="150" />
-              <mxPoint x="550" y="150" />
-              <mxPoint x="550" y="200" />
-              <mxPoint x="471" y="200" />
-              <mxPoint x="471" y="320" />
+              <mxPoint x="440" y="190" />
+              <mxPoint x="530" y="190" />
+              <mxPoint x="530" y="280" />
+              <mxPoint x="460" y="280" />
+              <mxPoint x="460" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
