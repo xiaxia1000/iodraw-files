@@ -13,7 +13,10 @@
               <mxPoint x="530" y="190" />
               <mxPoint x="530" y="280" />
               <mxPoint x="460" y="280" />
-              <mxPoint x="460" y="360" />
+              <mxPoint x="460" y="320" />
+              <mxPoint x="360" y="320" />
+              <mxPoint x="360" y="340" />
+              <mxPoint x="420" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
