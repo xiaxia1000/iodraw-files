@@ -15,8 +15,10 @@
               <mxPoint x="480" y="250" />
               <mxPoint x="480" y="270" />
               <mxPoint x="360" y="270" />
-              <mxPoint x="360" y="340" />
-              <mxPoint x="420" y="340" />
+              <mxPoint x="360" y="300" />
+              <mxPoint x="490" y="300" />
+              <mxPoint x="490" y="320" />
+              <mxPoint x="420" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
